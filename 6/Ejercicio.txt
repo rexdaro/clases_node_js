@@ -1,0 +1,5 @@
+Ejercicio 6
+Desarrollar un programa en Node.js que cree un directorio llamado `logs` si no existe y dentro de él cree un archivo `app.log`.
+
+1. Cada vez que el programa se ejecute, agregar al archivo `app.log` una línea con la fecha, hora y un mensaje de 'Ejecución exitosa'.
+2. Implementar una función que permita leer el archivo `app.log` y mostrar en consola las últimas 5 ejecuciones registradas.

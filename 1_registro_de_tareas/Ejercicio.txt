@@ -1,0 +1,11 @@
+Ejercicio 1
+
+Escribir en el archivo un mensaje de inicio cada vez que el programa se ejecuta, con la fecha y hora actual en el formato:
+
+[YYYY-MM-DD HH:MM:SS] - Inicio del programa
+Simular la ejecución de una tarea que tarda 5 segundos. Mientras la tarea se ejecuta, escribir en log.txt:
+
+[YYYY-MM-DD HH:MM:SS] - Ejecutando tarea...
+Cuando la tarea finaliza, escribir en log.txt:
+
+[YYYY-MM-DD HH:MM:SS] - Tarea completada

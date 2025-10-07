@@ -1,0 +1,30 @@
+{
+  "name": "clases_node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./clase_yargs/1_registro_de_tareas.js",
+    "dev": "nodemon ./clase_yargs/1_registro_de_tareas.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rexdaro/clases_node_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/rexdaro/clases_node_js/issues"
+  },
+  "homepage": "https://github.com/rexdaro/clases_node_js#readme",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

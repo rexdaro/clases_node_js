@@ -1,0 +1,6 @@
+Ejercicio 5
+Crear un programa en Node.js que copie el contenido de un archivo a otro.
+
+1. Recibir dos parámetros desde la línea de comandos: el archivo de origen y el archivo de destino.
+2. Verificar si el archivo de origen existe. Si no existe, mostrar un mensaje de error.
+3. Copiar el contenido al archivo de destino y mostrar en consola un mensaje confirmando la copia.

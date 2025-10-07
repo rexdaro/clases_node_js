@@ -1,0 +1,20 @@
+Ejercicio 2
+Desarrollar un programa en Node.js que realice las siguientes operaciones utilizando el módulo `fs`:
+
+1. Crear un archivo llamado `datos.txt` y escribir en él el siguiente contenido:
+   ```
+   Nombre: [Tu Nombre]
+   Edad: [Tu Edad]
+   Carrera: [Tu Carrera]
+   ```
+   
+2. Leer el archivo `datos.txt` e imprimir su contenido en la consola.
+
+3. Agregar al final del archivo la fecha y hora actuales en el siguiente formato:
+   ```
+   Fecha de modificación: [YYYY-MM-DD HH:MM:SS]
+   ```
+
+4. Renombrar el archivo `datos.txt` a `informacion.txt`.
+
+5. Eliminar el archivo `informacion.txt` tras 10 segundos de haber sido renombrado.
